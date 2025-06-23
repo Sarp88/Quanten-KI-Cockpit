@@ -1,7 +1,7 @@
-Willkommen im Quanten-KI-Cockpit!
+Dies ist das vollständige KI-Cockpit-Modulpaket:
 
-Installationsschritte:
-1. Entpacken
-2. Terminal öffnen
-3. npm install
-4. npm run dev
+1. Mentor-Audiofeld
+2. Fokusfeld X
+3. Archetypen-Resonanzfelder
+
+Bereit zur Integration in dein aktives Projekt.
