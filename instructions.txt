@@ -1,0 +1,5 @@
+Sprachbefehle:
+- 'Navigator, starte Meditation'
+- 'Navigator, Fokus X'
+
+Mentor-Stimme: aktivierend, klar, tief.
